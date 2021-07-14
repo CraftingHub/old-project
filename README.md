@@ -11,3 +11,7 @@ The crafthub project is built by the community for the community. We welcome con
 # License
 
 The CraftHub code is released under the Apache v2 license.
+
+# Application demo 
+
+the react up is deployed on netlify : https://fullcrafthub.netlify.app/
