@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!c:\users\saadm\onedrive\bureau\dev\crafthub\env\scripts\python.exe
+=======
+#!c:\users\boujr\onedrive\bureau\new folder\env\scripts\python.exe
+>>>>>>> cbe439bfb14231b8578758dd27c1f8ff30a61c0a
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
